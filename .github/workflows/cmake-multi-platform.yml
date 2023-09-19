@@ -1,0 +1,22 @@
+ls
+cd alx-low_level_programming
+cd 0x05-pointers_arrays_strings
+cd betty
+ls
+chmod a+x betty
+sudo mv betty /bin/
+cd ..
+betty 1-swap.c
+betty 2-strlen.c
+betty 3-puts.c
+betty 4-print_rev.c
+betty 5-rev_string.c
+betty 6-puts2.c
+betty 7-puts_half.c
+betty 8-print_array.c
+betty 9-strcpy.c
+betty 100-atoi.c
+betty 101-keygen.c
+git add .
+git commit -m "bettys"
+git push
