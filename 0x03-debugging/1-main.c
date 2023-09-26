@@ -2,6 +2,13 @@
 /**
 * main - causes an infinite loop
 * Return: 0
+* needing
+* more
+* lines
+* to keep
+* the code
+* organized 
+* DONE
 */
 int main(void)
 {
@@ -15,4 +22,3 @@ i = 0;
 printf("Infinite loop avoided! \\o/\n");
 return (0);
 }
-
