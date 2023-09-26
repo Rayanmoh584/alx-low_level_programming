@@ -7,7 +7,7 @@
 * lines
 * to keep
 * the code
-* organized 
+* organized
 * DONE
 */
 int main(void)
