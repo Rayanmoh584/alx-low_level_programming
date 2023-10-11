@@ -24,4 +24,8 @@ Write a function-like macro ABS(x) that computes the absolute value of a number 
 
 4. SUM
 
+<<<<<<< HEAD
 Write a function-like macro SUM(x, y) that computes the sum of the numbers x and y.
+=======
+Write a function-like macro SUM(x, y) that computes the sum of the numbers x and y.￼Enter
+>>>>>>> 674031ac22a1fa6e13f01ec7931546a4ee74e54c
